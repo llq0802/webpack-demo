@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunklighting_admin_one=self.webpackChunklighting_admin_one||[]).push([[179],{386:function(e,n,t){var r=t(294),u=t(745);var c=function(){return r.createElement("h2",null,"webpack5-react-ts-Demo")},a=document.getElementById("root");a&&(0,u.s)(a).render(r.createElement(c,null))}},function(e){e.O(0,[216],(function(){return n=386,e(e.s=n);var n}));e.O()}]);
